@@ -77,7 +77,7 @@ Some cloud-connected features require valid Firebase configuration, internet acc
 
 ## Demonstration Video
 
-**Video link:** To be added.
+https://drive.google.com/file/d/1IJL6DCXfY1bdC6LvKr-maFt2h39qsxC9/view?usp=sharing
 
 The demonstration will show the application's main features, including authentication, vehicle management, fuel tracking, trip history, automatic trip detection, and nearby petrol station discovery.
 
